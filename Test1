@@ -653,48 +653,6 @@
               "include": {
                   "faction": ["Resistance"],
                 "unit": ["Rose Tico", "Rey", "Poe Dameron", "Finn", "R2-D2"]
-              }
-            }
-          },
-        {
-            "name": "C-3PO",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1616219505080628828/F6A01DB4DFDB1A518FC4E373D72237AB1B31300B/",
-            "points": 15,
-            "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456807069/DE7E32B39455DB5111769436FD0C5BFDA3841268/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228032306506/D60CB8A1159723917EF1831D4042318A67458A7A/"
-            },
-            "restrictions": {
-              "include": {
-                "unit": ["R2-D2"]
-              }
-            }
-          },
-          {
-        "name": "Salacious B. Crumb",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741310541/C8ADFE085EC634C8766C303BD1F89D230BEADEBE/",
-        "points": 10,
-        "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696984838966754/DCEED639BB3AA1D36A2AF82B26708EF4007A3583/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696984838966978/51C97B6161C17AE3229372F0C26331EAD0D44200/"
-        },
-        "restrictions": {
-          "include": {
-            "unit": ["Jabba The Hutt"]
-          }
-        }
-      },
-      {
-      "name": "Vornskr's",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741832560/CFA25E88275C65CC80ACE518A3DBDB2C4235E061/",
-      "points": 15,
-      "mini": {
-        "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620252875766/48FF7F717DEA00FCE1E830FD4FA888494433370A/",
-        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697620252875970/2006E4E0DA5EA0DEEEB1B3982D975944B8F9DC7B/"
-      },
-      "restrictions": {
-        "include": {
-          "unit": ["Beast Master"]
         }
       }
     }
