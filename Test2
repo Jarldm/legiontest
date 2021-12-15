@@ -535,6 +535,40 @@
                 ]
               },
               {
+                "name": "Shen Alrezi",
+                "title": "Spark of Hope",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1858295788563755105/7666E525B5A62E3C4820D3C424810F37362A1719/",
+                "size": "small",
+                "type": "Trooper",
+                "points": 150,
+                "speed": 2,
+                "upgrades": {
+                  "Force": 2,
+                  "Command": 1,
+                  "Training": 1
+                },
+                "minis": [{
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1729919736036824243/30878EF3A0C2AAE6CA33D0B013AF09B6589CC9ED/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+                }],
+                "commands": [{
+                    "name": "A Thousand Generations",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1858295788563758713/514A9EA0FAE0C467525711092E72C2FC6000C87C/",
+                    "pip": 1
+                  },
+                  {
+                    "name": "Spark of Hope",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1858295788563759974/AFF0DA74B1AF4D574E0FBCC6795D71999CEB2ED4/",
+                    "pip": 2
+                  },
+                  {
+                    "name": "One With The Force",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1858295788563760858/1263A586BFB28A719842EF73B684873C123AE392/",
+                    "pip": 3
+                 }
+                ]
+              },
+              {
                 "name": "Commander Cody",
                 "title": "Marshal Commander of the 212th",
                 "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747469835/A6730D0E28DBDA4AC78F4590BF0C5F1D46083322/",
