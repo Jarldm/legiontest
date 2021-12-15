@@ -40,11 +40,11 @@
             ],
 	    "Corps": [
               {
-                "name": "First Order Stormtroopers",
+                "name": "Phase 2 Stormtroopers",
                 "image": "http://cloud-3.steamusercontent.com/ugc/1027324804931510298/AF04FDEDA7216024A534A74F972923DDBFF8A2A5/",
                 "size": "small",
                 "type": "Trooper",
-                "points": 52,
+                "points": 50,
                 "speed": 2,
                 "upgrades": {
                   "Heavy Weapon": 1,
@@ -134,8 +134,7 @@
               "speed": 2,
               "upgrades": {
                 "Heavy Weapon": 1,
-                "Training": 1,
-                "Illicit": 1,
+                "Training": 1, 
                 "Gear": 1,
                 "Grenades": 1
               },
@@ -170,19 +169,19 @@
               "upgrades": {
                 "Heavy Weapon": 1,
                 "Training": 1,
-                "Illicit": 1,
                 "Comms": 1,
                 "Gear": 1
               },
               "minis": [{
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697407432785617/C21E190F258AC17A01C5D096C890DFA3B988759D/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697407432785832/186A72B65075EEA56ED2C3D1DC80718E987884B5/"
-              }]
-            }
-        ],
-        "Support": [{
-          "name": "Droideka MKII",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638672297/9A21A780F96BA78A849FD5FFF320FF4D0581259A/",
+              }
+                  ]
+                }
+            ],
+            "Support": [{
+              "name": "Droideka MKII",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638672297/9A21A780F96BA78A849FD5FFF320FF4D0581259A/",
           "size": "medium",
           "type": "Ground Vehicle",
           "points": 110,
@@ -234,11 +233,10 @@
                   {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180096325/2AB8CE3FE8B9FFFEC50C420D918E23A0DCF200B1/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/" 
-                  }
-                ]
-              }
+                  }]
+                }
             ]
-          },
+        },
         "Republic": {
             "Commander": [
               {
