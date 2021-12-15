@@ -574,9 +574,9 @@
             "restrictions": {
               "include": {
                 "unit": ["Republic Commandos"]
+           }
             }
-          }
-        },
+          },
         {
             "name": "JT-12 Jetpack",
             "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747527633/AF0E4FAA5C2D92BD45DC40252B9ADAB003A5FC5F/",
@@ -606,21 +606,6 @@
         "restrictions": {
           "include": {
             "type": ["Mandalorian Trooper"]
-          }
-        }
-      },
-      {
-        "name": "Cryoban Grenade",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747372562/020D8C7E51888C66929A5C68BC64CF2A0751AB96/",
-        "points": 10
-      },
-        {
-          "name": "Concussive Discs",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640743157047/93145CADA2644E48715594A16814C0B588B09264/",
-          "points": 7,
-          "restrictions": {
-            "include": {
-              "unit": ["IG-88"]
             }
           }
       }
@@ -656,32 +641,12 @@
         }
       },
     {
-        "name": "Ion Cannon",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638673967/DCE9270CEAD120F4DD068CDF23C326E2371DC75C/",
-        "points": 15,
-        "restrictions": {
-          "include": {
-            "unit": ["Droideka MKII"]
-            }
-        }
-    },
-    {
         "name": "Sealed Blast Shields",
         "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747617819/F41341A8EA3FDEBA78238EC8298691A0E2C5248C/",
         "points": 0,
         "restrictions": {
           "include": {
             "unit": ["LA-AT/I Gunship"]
-            }
-        }
-    },
-      {
-        "name": "Tri Laser Cannons",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638674750/6057A2DACA2F104F889921E46FF3AC717DE4B962/",
-        "points": 25,
-        "restrictions": {
-          "include": {
-            "unit": ["Droideka MKII"]
           }
         }
       },
