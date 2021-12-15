@@ -1,6 +1,40 @@
 {
     "units": {
         "Empire": {
+	"Commander": [{
+        "name": "Inquisitor Thrand",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1858295788564092104/D2619F2C4CDCED4BD888E5F16C8ACD6D63B222BD/",
+        "size": "small",
+        "type": "Trooper",
+        "points": 150,
+        "speed": 2,
+        "upgrades": {
+          "Force": 2,
+	  "Training": 1,
+	  "Command": 1,
+        },
+        "minis": [{
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885833891/AE635515661DD84861ADF0CF4FC48052FD3DEF87/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608885695776/F5A3AA78554B8F3CB86314E552D94D65C0080F0C/"
+        }],
+        "commands": [{
+            "name": "Ever Pathetic, Ever Fools",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1858295788564102169/2B696AD9A48A6CB0A373DCBF058F9CE8106298F7/",
+            "pip": 1
+          },
+          {
+            "name": "Dark Chains",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1858295788564095432/DEA1605B79E8701D8A37304F219CD4363A01182D/",
+            "pip": 2
+          },
+          {
+            "name": "Through Power, Victory",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1858295788564094494/647A1249B286012694F853E2256CEAA9E2E9B5B0/",
+            "pip": 3
+             }
+        ]
+      }
+    ],
             "Operative": [
                 {
                     "name": "Gar Saxon",
