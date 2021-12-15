@@ -548,8 +548,8 @@
                   "Training": 1
                 },
                 "minis": [{
-                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1729919736036824243/30878EF3A0C2AAE6CA33D0B013AF09B6589CC9ED/",
-                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350883222773/A4B8C6678A7082E70BEC3204A279752479EA5EA2/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350882538520/1BB66CE6B8F58CFB17BE6A7850DC2F2A6F0A2CC3/"
                 }],
                 "commands": [{
                     "name": "A Thousand Generations",
