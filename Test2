@@ -10,8 +10,8 @@
         "speed": 2,
         "upgrades": {
           "Force": 2,
-	  "Training": 1,
 	  "Command": 1,
+	  "Training": 1
         },
         "minis": [{
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885833891/AE635515661DD84861ADF0CF4FC48052FD3DEF87/",
