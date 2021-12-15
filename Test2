@@ -636,6 +636,65 @@
                     "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747528812/CFDDAA0DDD1CB89C937F8B47D672B78CF44D19D5/",
                     "pip": 3
                   }
+                    ]
+                  }
+            ],
+            "Corps": [
+              {
+                "name": "Resistance Troopers",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1027324582151747849/0DC6B237D0C8CC16BE47236FF1B5268D403945C1/",
+                "size": "small",
+                "type": "Trooper",
+                "points": 30,
+                "speed": 2,
+                "upgrades": {
+                  "Heavy Weapon": 1,
+                  "Personnel": 1,
+                  "Gear": 1,
+                  "Grenades": 1
+                },
+                "minis": [
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804924627970/AE0B4993C8FA598D93829CF55F0E0A6415ACBBFB/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151454188/1EC7453DFA3870ADCA468AD5A9257330B58CF8F4/"
+                  },
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324582151456311/376D681EDE4D18D355A359F47C49551B6AC5EBAA/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151456617/9EBFAB9697DE7A1435FF501C6F39BBCC3B244BCB/"
+                  },
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324582151464621/CEB3271C1C9E43C30C41206E919ACA9AFFB45247/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151464893/EF78574A7DFC9EBC7EC9FB76B27BA5F846B8F97D/"
+                  }
+                ]
+              },
+              {
+                "name": "Resistance Trench Fighters",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1017194020628449858/1DC8646D5B2D0F5ABF7828732E6DE923F301DE46/",
+                "size": "small",
+                "type": "Trooper",
+                "points": 39,
+                "speed": 2,
+                "upgrades": {
+                  "Heavy Weapon": 1,
+                  "Personnel": 1,
+                  "Training": 1,
+                  "Gear": 1,
+                  "Grenades": 1
+                },
+                "minis": [
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248440350/60BC7FB4B3F6B327003DAB9B924C5EC98FA67C4B/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248444916/D62AC2DD70775BA5025900AC76975C4AB45A54CC/"
+                  },
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248441473/F330E21469E4FF560B9E8892E784C14373697F16/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248440578/125E76600442E01E3AD18725563EA1BE4D63BEFA/"
+                  },
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248442051/472D72BABB02CCA9F99639F83E21A9D3AF83BB14/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248440578/125E76600442E01E3AD18725563EA1BE4D63BEFA/"
+                  }
                 ]
               }
             ],
