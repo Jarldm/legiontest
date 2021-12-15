@@ -103,9 +103,9 @@
                       "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982276438/B609AA7C947FFDBFFFDE022D21A4029EF4428282/",
                       "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982273931/809947D430BEB447CD2FA3E99DD31AF57C3E8F84/"
                    }
-      ]
-    },
-    {
+                 ]
+               },
+             {
                 "name": "Jet Troopers",
                 "image": "http://cloud-3.steamusercontent.com/ugc/1021698013227710802/31F1894E5D894CF8AA32648A9D2485ECA67CD778/",
                 "size": "small",
@@ -119,10 +119,13 @@
                   "Comms": 1,
                   "Gear": 1
                 },
-                "minis": [
-                  {
+                "minis": [{
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698013227866981/5EA3E02AC241512021988DBE0EC44754960D7C1E/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021698013227867246/FB14C11D0A31B44E68FDEF0CAF9D3CCE7D140EF7/"
+		     }
+                 ]
+               },
+             {
 		    "name": "IG-86 Sentinel Droids",
               "image": "http://cloud-3.steamusercontent.com/ugc/1638738640742381727/F1DAD4DF93EE4BE12C4E2E2BC1D7BADF29BAD32A/",
               "size": "small",
